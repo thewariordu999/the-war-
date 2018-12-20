@@ -1,1 +1,1 @@
-# the-war-
+{"name": "the war Bot", "channel_id": "495297690679115777", "token": "JT8ohVjDCT2Re1Yc6Iv9T0lmanhct0O_fqC82CpBTMUwjU3CdF6mGTBznzZoNz1RZ3km", "avatar": "ff1625a7904407ac712e93e692e51024", "guild_id": "492770023530692609", "id": "509096804785324052"}
